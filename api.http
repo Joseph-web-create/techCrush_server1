@@ -1,0 +1,11 @@
+### Home route
+GET http://localhost:5025/home
+
+### Contact us
+GET http://localhost:5025/contact-us
+
+### About us
+GET http://localhost:5025/about
+
+###
+GET http://localhost:5025
